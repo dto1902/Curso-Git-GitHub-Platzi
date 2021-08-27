@@ -3,5 +3,6 @@ Soy Diego Torres
 Vivo en Colombia
 Nacido en Venezuela
 Estudio Desarrollo web
+Curso platzi
 
 Tengo 34 años.
